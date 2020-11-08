@@ -50,3 +50,5 @@ msg = "Hello World"
 """Note: + operator concatenetes two string along with
    addition of numbers"""
 
+# To find squre root
+print(99**0.5)
