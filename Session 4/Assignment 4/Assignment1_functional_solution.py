@@ -1,0 +1,1 @@
+# Assignment 1 is solved using function
